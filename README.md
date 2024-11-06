@@ -12,7 +12,7 @@ Requirements:
 
 Installation
     Clone the repository: git clone https://github.com/yourusername/keylogger.git
-													cd keylogger
+			cd keylogger
     Install dependencies: pip install pynput
     Run the keylogger: python keylogger.py
 
